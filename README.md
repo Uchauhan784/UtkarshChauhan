@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ucportfolio.netlify.app/](https://ucportfolio.netlify.app/)
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6786ddfaf7b3074e9129fe35](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6786ddfaf7b3074e9129fe35)
+- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6786ddfaf7b3074e9129fe35](https://ucportfolio.netlify.app/assets/utkarsh%20chauhan%20Frontend.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
